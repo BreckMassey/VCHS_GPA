@@ -1,0 +1,104 @@
+html, body {
+
+    
+  
+  height: 100%;
+  width: 100%;
+}
+
+.redButton {
+  background-color: #ff0000;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.orangeButton {
+  background-color: #ffa500;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.yellowButton {
+  background-color: #ffff00;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.greenButton {
+  background-color: #008000;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.columbiaButton {
+  background-color: #add8e6;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.navyButton {
+  background-color: #00008b;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.purpleButton {
+  background-color: #800080;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.grayButton {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+
+
+.button1 {border-radius: 10px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
